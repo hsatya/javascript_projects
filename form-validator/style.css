@@ -12,10 +12,10 @@
 body {
   background-color: #f9fafb;
   font-family: "Open Sans", sans-serif;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  min-height: 100vh;
+  display: flex; /* For Center */
+  align-items: center; /* For Center */
+  justify-content: center; /* For Center */
+  min-height: 100vh; /* For Center */
   margin: 0;
 }
 
